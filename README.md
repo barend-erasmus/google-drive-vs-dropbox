@@ -26,7 +26,7 @@ The cost of 1 TB storage varies from country to country.
 
 ### Dropbox
 
-Keep in mind that VAT will be added to you're monthly bill where applicable. Costs may differ in certain countries as well.
+Keep in mind that VAT will be added to your monthly bill where applicable. Costs may differ in certain countries as seen below with United Kingdom.
 
 | Cost     | VAT      | Country                  | Total     |
 | -------- | -------- | ------------------------ | --------- |
@@ -42,7 +42,16 @@ Although both, Google Drive and Dropbox, have a free option, we went with the 1 
 
 ## API
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis diam sit amet magna vehicula, vestibulum auctor mi aliquam. Vestibulum fermentum enim a nisl bibendum sodales. Cras rhoncus sem vitae purus finibus, sit amet pulvinar tortor commodo. Vestibulum eget sem eu magna maximus blandit. Donec pretium ultricies magna in tincidunt. Nunc eleifend, diam sit amet varius mattis, nulla enim auctor leo, sed accumsan dui ante scelerisque tellus.
+| Feature             | Google Drive | Dropbox  |
+| --------------------| ------------ | -------- |
+| Upload Files        | &#10003;     | &#10003; |
+| - Simple Uploads    | &#10003;     | &#10003; |
+| - Multipart Uploads | &#10003;     | &#10005; |
+| - Resumable Uploads | &#10003;     | &#10003; |
+| Download Files      | &#10003;     | &#10003; |
+| - Temporary Link    | &#10005;     | &#10003; |
+| Meta Data           | &#10005;     | &#10003; |
+| - File Hash         | &#10005;     | &#10003; |
 
 ## Authentication
 
