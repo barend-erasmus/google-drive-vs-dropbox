@@ -55,10 +55,8 @@ Although both, Google Drive and Dropbox, have a free option, we went with the 1 
 
 ## Authentication
 
-### Google Drive
+Google Drive only allows OAuth 2.0 authentication which does not allow one to use their API without a web interface. Dropbox has the option to use OAuth 2.0 as well as the option use an API key. The API key allows a developer to build applications and services on top of Dropbox.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis diam sit amet magna vehicula, vestibulum auctor mi aliquam. Vestibulum fermentum enim a nisl bibendum sodales. Cras rhoncus sem vitae purus finibus, sit amet pulvinar tortor commodo. Vestibulum eget sem eu magna maximus blandit. Donec pretium ultricies magna in tincidunt. Nunc eleifend, diam sit amet varius mattis, nulla enim auctor leo, sed accumsan dui ante scelerisque tellus.
+## Conclusion
 
-### Dropbox
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut iaculis diam sit amet magna vehicula, vestibulum auctor mi aliquam. Vestibulum fermentum enim a nisl bibendum sodales. Cras rhoncus sem vitae purus finibus, sit amet pulvinar tortor commodo. Vestibulum eget sem eu magna maximus blandit. Donec pretium ultricies magna in tincidunt. Nunc eleifend, diam sit amet varius mattis, nulla enim auctor leo, sed accumsan dui ante scelerisque tellus.
+Coming Soon...
