@@ -31,7 +31,7 @@ Keep in mind that VAT will be added to you're monthly bill where applicable. Cos
 | Cost     | VAT      | Country                  | Total     |
 | -------- | -------- | ------------------------ | --------- |
 | 9.99 USD | 0 USD    | United State of America  | 9.99 USD  |
-| 7.99 GBP | 1.40 USD | United Kingdom           | 7.99 GBP  |
+| 7.99 GBP | 0 USD    | United Kingdom           | 7.99 GBP  |
 | 9.99 USD | 1.40 USD | Republic of South Africa | 11.39 USD |
 | 9.99 USD | 0 USD    | Republic of India        | 9.99 USD  |
 
