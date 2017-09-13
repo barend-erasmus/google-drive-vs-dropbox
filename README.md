@@ -38,7 +38,7 @@ Keep in mind that VAT will be added to you're monthly bill where applicable. Cos
 
 ## Storage
 
-Although both, Google Drive and Dropbox, have free tiers, we went with the 1 TB tier as less than 10 GB would only be suitable for a handful of scenarios. The 1 TB should also be suffient for quite some time and when you reach this limit you should consider moving to Cloud Storage by Amazon.
+Although both, Google Drive and Dropbox, have a free option, we went with the 1 TB option as less than 10 GB would only be suitable for a handful of scenarios and the 1 TB should also be suffient for quite some time. When you reach this limit you should consider moving to Cloud Storage by Amazon.
 
 ## API
 
