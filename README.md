@@ -31,7 +31,7 @@ Keep in mind that VAT will be added to your monthly bill where applicable. Costs
 | Cost     | VAT      | Country                  | Total     |
 | -------- | -------- | ------------------------ | --------- |
 | 9.99 USD | 0 USD    | United States of America | 9.99 USD  |
-| 7.99 GBP | 0 USD    | United Kingdom           | 7.99 GBP  |
+| 7.99 GBP | 0 GBP    | United Kingdom           | 7.99 GBP  |
 | 9.99 USD | 1.40 USD | Republic of South Africa | 11.39 USD |
 | 9.99 USD | 0 USD    | Republic of India        | 9.99 USD  |
 
@@ -55,7 +55,9 @@ Although both, Google Drive and Dropbox, have a free option, we went with the 1 
 
 ## Authentication
 
-Google Drive only allows OAuth 2.0 authentication which does not allow one to use their API without a web interface. Dropbox has the option to use OAuth 2.0 as well as the option use an API key. The API key allows a developer to build applications and services on top of Dropbox.
+Google Drive only allows OAuth 2.0 authentication which does not allow one to use their API without a web interface. Dropbox has the option to use OAuth 2.0 as well as the option to use an API key.
+
+The Dropbox API Key will allow you to build applications and services on top of Dropbox where as Google Drive's OAuth2 only allows you to integrate your application into theirs.
 
 ## Conclusion
 
