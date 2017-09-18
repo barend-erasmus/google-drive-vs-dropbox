@@ -18,7 +18,7 @@ The cost of 1 TB storage varies from country to country.
 
 | Cost     | Country                  | USD (2017-09-13) |
 | -------- | ------------------------ | ---------------- |
-| 9.99 USD | United State of America  | N/A              |
+| 9.99 USD | United States of America  | N/A              |
 | 7.99 GBP | United Kingdom           | 10.63 USD        |
 | 159 ZAR  | Republic of South Africa | 12.22 USD        |
 | 650 INR  | Republic of India        | 10.15 USD        |
@@ -30,7 +30,7 @@ Keep in mind that VAT will be added to your monthly bill where applicable. Costs
 
 | Cost     | VAT      | Country                  | Total     |
 | -------- | -------- | ------------------------ | --------- |
-| 9.99 USD | 0 USD    | United State of America  | 9.99 USD  |
+| 9.99 USD | 0 USD    | United States of America  | 9.99 USD  |
 | 7.99 GBP | 0 USD    | United Kingdom           | 7.99 GBP  |
 | 9.99 USD | 1.40 USD | Republic of South Africa | 11.39 USD |
 | 9.99 USD | 0 USD    | Republic of India        | 9.99 USD  |
