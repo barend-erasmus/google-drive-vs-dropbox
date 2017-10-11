@@ -26,7 +26,7 @@ The cost of 1 TB storage varies from country to country.
 
 ### Dropbox
 
-Keep in mind that VAT will be added to your monthly bill where applicable. Costs may differ in certain countries as seen below with United Kingdom.
+Keep in mind that VAT will be added to your monthly bill where applicable. Costs may differ in certain countries as seen below with the United Kingdom.
 
 | Cost     | VAT      | Country                  | Total     |
 | -------- | -------- | ------------------------ | --------- |
@@ -57,7 +57,7 @@ Although both, Google Drive and Dropbox, have a free option, we went with the 1 
 
 Google Drive only allows OAuth 2.0 authentication which does not allow one to use their API without a web interface. Dropbox has the option to use OAuth 2.0 as well as the option to use an API key.
 
-The Dropbox API Key will allow you to build applications and services on top of Dropbox where as Google Drive's OAuth2 only allows you to integrate your application into theirs.
+The Dropbox API Key will allow you to build applications and services on top of Dropbox whereas Google Drive's OAuth2 only allows you to integrate your application into theirs.
 
 ## Conclusion
 
