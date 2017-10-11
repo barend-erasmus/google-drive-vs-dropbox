@@ -38,7 +38,7 @@ Keep in mind that VAT will be added to your monthly bill where applicable. Costs
 
 ## Storage
 
-Although both, Google Drive and Dropbox, have a free option, we went with the 1 TB option as less than 10 GB would only be suitable for a handful of scenarios and the 1 TB should also be suffient for quite some time. When you reach this limit you should consider moving to Cloud Storage by Amazon.
+Although both, Google Drive and Dropbox, have a free option, we went with the 1 TB option as less than 10 GB would only be suitable for a handful of scenarios and the 1 TB should also be sufficient  for quite some time. When you reach this limit you should consider moving to Cloud Storage by Amazon.
 
 ## API
 
